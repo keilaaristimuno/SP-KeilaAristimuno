@@ -1,3 +1,3 @@
 Segundo Parcial - Keila Aristimuño
 --------------------------------------
-![Uml.png]
+![Uml](Uml.png)
